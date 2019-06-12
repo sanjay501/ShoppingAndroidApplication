@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMSU</string>
+    <string name="title_activity_bottom_tabbed">BottomTabbedActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button">Button</string>
+    <string name="homer">HOMER</string>
+</resources>
